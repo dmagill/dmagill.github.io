@@ -1,2 +1,4 @@
 name: Random Samplings (using Jekyll)
 markdown: kramdown
+
+theme: jekyll-theme-modernist
